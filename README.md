@@ -1,4 +1,4 @@
-# CBUSH Huth Stiffness Updater
+# Fastened Joint Stiffness Updater
 
 A comprehensive finite element analysis utility for calculating and updating CBUSH element stiffness values using the Huth formula for fastened joints in Nastran FE models.
 
